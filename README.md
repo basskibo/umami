@@ -98,3 +98,5 @@ docker compose up --force-recreate
 ## License
 
 MIT
+
+## Deployed on Railway
